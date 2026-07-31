@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Real Estate Cash Rebate">
+  <rect width="100" height="100" rx="22" fill="#0F2A45"/>
+  <path d="M50 26 L80 50 H70 V77 H30 V50 H20 Z" fill="#D8A537"/>
+  <rect x="44" y="58" width="12" height="19" rx="1.5" fill="#0F2A45"/>
+  <circle cx="74" cy="30" r="12" fill="#1E7A52" stroke="#0F2A45" stroke-width="3.5"/>
+</svg>
