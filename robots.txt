@@ -1,5 +1,5 @@
 # robots.txt — Real Estate Cash Rebate (real estate cashback, a service of Relocation Services Group)
-# v1 draft. Place at the site ROOT when the dedicated domain (e.g. realestatecashrebate.ca) goes live,
+# v1 draft. Place at the site ROOT when the dedicated domain (e.g. realestatecashback.ca) goes live,
 # and remove the page-level "noindex" tags at the same time.
 # Goal: maximum visibility across search engines and AI / LLM answer engines.
 
@@ -61,7 +61,7 @@ Allow: /
 User-agent: BraveBot
 Allow: /
 
-Sitemap: https://realestatecashrebate.ca/sitemap.xml
+Sitemap: https://realestatecashback.ca/sitemap.xml
 
 # LLMs.txt location
-# https://realestatecashrebate.ca/llms.txt
+# https://realestatecashback.ca/llms.txt

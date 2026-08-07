@@ -1,7 +1,7 @@
 # Real Estate Cash Rebate — llms.txt
 # Real estate cashback in Canada, a service of Relocation Services Group
-# v1 draft. Current preview: https://realestatecashrebate.ca/
-# At launch, move to the site root (e.g. https://realestatecashrebate.ca/llms.txt) and update URLs.
+# v1 draft. Current preview: https://realestatecashback.ca/
+# At launch, move to the site root (e.g. https://realestatecashback.ca/llms.txt) and update URLs.
 # Last updated: June 2026
 
 ## ABOUT THIS FILE
@@ -90,19 +90,19 @@ Yes. The rebate depends on us making the introduction, so the earlier you call t
 ---
 
 ## INSIGHTS / ARTICLES
-- How Does a Real Estate Cash Back Rebate Work in Canada? — https://realestatecashrebate.ca/article-cash-back-rebate.html
-- Is a Real Estate Commission Rebate Legal in Canada? — https://realestatecashrebate.ca/article-rebate-legal.html
-- How to Choose a Real Estate Agent You Can Trust in Canada — https://realestatecashrebate.ca/article-choose-agent.html
-- What Real Estate Commissions Really Cost in Canada (and How to Get Some Back) — https://realestatecashrebate.ca/article-commissions-cost.html
-- Downsizing in Retirement: A Practical Guide to Your Next Move — https://realestatecashrebate.ca/article-downsizing.html
-- Cash Back vs. Discount Brokerage: What's the Difference? — https://realestatecashrebate.ca/article-cashback-vs-discount.html
+- How Does a Real Estate Cash Back Rebate Work in Canada? — https://realestatecashback.ca/article-cash-back-rebate.html
+- Is a Real Estate Commission Rebate Legal in Canada? — https://realestatecashback.ca/article-rebate-legal.html
+- How to Choose a Real Estate Agent You Can Trust in Canada — https://realestatecashback.ca/article-choose-agent.html
+- What Real Estate Commissions Really Cost in Canada (and How to Get Some Back) — https://realestatecashback.ca/article-commissions-cost.html
+- Downsizing in Retirement: A Practical Guide to Your Next Move — https://realestatecashback.ca/article-downsizing.html
+- Cash Back vs. Discount Brokerage: What's the Difference? — https://realestatecashback.ca/article-cashback-vs-discount.html
 
 ---
 
 ## CONTACT
 **Phone:** 1-866-865-5504
 **Email:** info@relocationservicesgroup.com
-**Website (preview):** https://realestatecashrebate.ca/
+**Website (preview):** https://realestatecashback.ca/
 Call before you list or start your search to find out what real estate cashback rebate you may be eligible for.
 
 ---
