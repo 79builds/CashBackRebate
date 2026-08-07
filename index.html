@@ -90,8 +90,7 @@
   .hero-actions{display:flex;gap:16px;align-items:center;flex-wrap:wrap}
   .hero-actions .phone{font-size:17px}
   .hero-trust{margin-top:46px;padding-top:28px;border-top:1px solid var(--line);display:flex;flex-wrap:wrap;justify-content:center;gap:16px 40px;font-size:15px;color:var(--ink-soft)}
-  .hero-trust span{display:flex;align-items:baseline;gap:9px}
-  .hero-trust span::before{content:"\2713";color:var(--green);font-weight:800;font-size:13px;position:relative;top:-1px}
+  .hero-trust span::before{content:"\2713";color:var(--green);font-weight:800;font-size:13px;position:relative;top:-1px;margin-right:9px}
   .hero-trust b{color:var(--navy);font-weight:700}
   .hero-card{position:relative}
   .imgph{position:relative;border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow);aspect-ratio:3/4;background:
@@ -261,9 +260,15 @@
     .steps,.tgrid,.bgrid,.why-grid,.fcols,.value-split,.proof-grid{grid-template-columns:1fr}
     .proof-media{max-width:300px;margin:6px auto 0}
     .trustbar .wrap{flex-direction:column;align-items:center;text-align:center;gap:16px}
+    .trust-featured{align-items:center}
     .badge-float{right:14px}
     .proof,.ctaband{padding:40px 26px}
     section{padding:60px 0}
+    .rebate-ticker{flex-direction:column;align-items:flex-start;height:auto;gap:10px}
+    .rt-track{overflow:visible;-webkit-mask-image:none;mask-image:none}
+    .rt-set{flex-wrap:wrap;animation:none;gap:6px 0}
+    .rt-set[aria-hidden]{display:none}
+    .rt-set span{padding:4px 14px 4px 0}
   }
 </style>
 <script type="application/ld+json">
@@ -626,7 +631,7 @@
     </div>
     <div class="fbottom">
       <div>&copy; 2026 Relocation Services Group. All rights reserved.</div>
-      <div><a href="#">Privacy</a><a href="#">Terms &amp; Conditions</a><a href="https://relocationservicesgroup.com" target="_blank" rel="noopener">relocationservicesgroup.com</a></div>
+      <div><a href="https://relocationservicesgroup.com" target="_blank" rel="noopener">relocationservicesgroup.com</a></div>
     </div>
   </div>
 </footer>
